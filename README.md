@@ -1,6 +1,8 @@
-# 🏥 MedQ App – Smart Hospital Queue & Bed Management System
+<h1 align="center">🏥 MedQ App – Smart Hospital Queue & Bed Management System</h1>
 
-![image](https://github.com/user-attachments/assets/75934e77-b5f0-4968-92bc-cc22e5678bbd)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/75934e77-b5f0-4968-92bc-cc22e5678bbd" alt="MedQ Banner" width="500"/>
+</p>
 
 
 ## 🚀 Overview
