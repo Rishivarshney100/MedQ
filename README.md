@@ -1,7 +1,7 @@
 # 🏥 MedQ App – Smart Hospital Queue & Bed Management System
 
-![MedQ Banner](![image]([https://github.com/Rishivarshney100/MedQ/blob/main/Screenshot%202025-06-05%20171943.png))
-)
+![image](https://github.com/user-attachments/assets/75934e77-b5f0-4968-92bc-cc22e5678bbd)
+
 
 ## 🚀 Overview
 **MedQ** is a hospital-based healthcare solution developed as part of the **Smart India Hackathon 2024** under Problem Statement ID: `SIH1620`. It provides a one-stop platform for real-time OPD registration, bed availability, and predictive healthcare logistics — all optimized with priority-based queuing and real-time hospital data.
