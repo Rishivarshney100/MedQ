@@ -61,7 +61,7 @@
 
 ## ⚙️ Architecture Diagram
 
-![Architecture Diagram](https://your-diagram-link-if-any)
+![image](https://github.com/user-attachments/assets/c40cf23f-f883-4a40-80c8-c403a0cedad2)
 
 ---
 
