@@ -61,7 +61,9 @@
 
 ## ⚙️ Architecture Diagram
 
-![image](https://github.com/user-attachments/assets/c40cf23f-f883-4a40-80c8-c403a0cedad2)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c40cf23f-f883-4a40-80c8-c403a0cedad2" alt="MedQ Banner" width="500"/>
+</p>
 
 ---
 
