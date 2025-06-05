@@ -68,11 +68,10 @@
 ---
 
 
-## ⚙️ Wokring Prototype
+## ⚙️ Working Prototype
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/4ec6abae-f458-4d9f-9fd9-ecd540ac8a8f
-" alt="MedQ Banner" width="500"/>
+  <img src="https://github.com/user-attachments/assets/4ec6abae-f458-4d9f-9fd9-ecd540ac8a8f" alt="MedQ Banner" width="500"/>
 </p>
 
 ---
